@@ -1,0 +1,27 @@
+.div1 h1{
+ color: white;
+ background-color : rgb(255, 174, 0);
+ width: 20%; 
+}
+.div2 h1{
+  color: rgb(226, 160, 17); 
+  background-color : rgb(0, 255, 213);
+  width: 15%;  
+}
+.div3 h1{
+  color: purple;
+  background-color : rgb(235, 13, 255);
+  width: 20%;   
+  }
+p.large-text {
+    font-size: 30px; color: blue;
+}
+.table, th, td, tr {
+    border: 4px solid rgb(79, 221, 13);
+ }
+td{
+    color: rgb(238, 132, 10);
+}
+th{
+    color: white; background-color: rgb(12, 223, 82);
+}
